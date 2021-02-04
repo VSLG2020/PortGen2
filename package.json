@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/VSLG2020/PortGen2/issues"
   },
-  "homepage": "https://github.com/VSLG2020/PortGen2#readme"
+  "homepage": "https://github.com/VSLG2020/PortGen2#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
 }
